@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/755741838422719698/5a5e7b5577a34b0c848eb3edc3f5b43b/artifacts
+end_time: 1741298412380
+entry_point_name: ''
+experiment_id: '755741838422719698'
+lifecycle_stage: active
+run_id: 5a5e7b5577a34b0c848eb3edc3f5b43b
+run_name: enchanting-squid-986
+run_uuid: 5a5e7b5577a34b0c848eb3edc3f5b43b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741298407571
+status: 3
+tags: []
+user_id: oumaima

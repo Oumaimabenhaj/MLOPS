@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/755741838422719698/625f5f2224534bfa8584d09dacf00505/artifacts
+end_time: 1739531364033
+entry_point_name: ''
+experiment_id: '755741838422719698'
+lifecycle_stage: active
+run_id: 625f5f2224534bfa8584d09dacf00505
+run_name: selective-steed-845
+run_uuid: 625f5f2224534bfa8584d09dacf00505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739531360670
+status: 3
+tags: []
+user_id: oumaima
